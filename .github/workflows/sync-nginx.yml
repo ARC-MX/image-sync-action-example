@@ -19,6 +19,7 @@ jobs:
           version: latest
           proc: 20
           os: linux
+          retries: 10
         env:
           ALIYUN_USERNAME: ${{ secrets.ALIYUN_USERNAME }}
           DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
