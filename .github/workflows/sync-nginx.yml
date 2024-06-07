@@ -18,6 +18,7 @@ jobs:
           images_file: ./nginx-images.yaml
           version: latest
           proc: 20
+          os: linux
         env:
           ALIYUN_USERNAME: ${{ secrets.ALIYUN_USERNAME }}
           DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
