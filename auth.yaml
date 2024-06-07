@@ -1,6 +1,3 @@
-egistry.cn-hangzhou.aliyuncs.com:
-        username: ${ALIYUN_USERNAME}
-        password: ${DOCKER_PASSWORD}
 docker.io:
         username: ${DOCKER_USERNAME}
         password: ${DOCKER_PASSWORD}
