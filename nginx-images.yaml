@@ -1,1 +1,1 @@
-nginx: "registry.cn-hangzhou.aliyuncs.com/hhyasdf/nginx"
+docker.io/mongo:4.4.18: "registry.cn-hangzhou.aliyuncs.com/arcw/mongo:4.4.18"
