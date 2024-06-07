@@ -1,1 +1,1 @@
-mongo:4.4.18: "registry.cn-hangzhou.aliyuncs.com/arcw/mongo:4.4.18"
+arcw/mongo:4.4.18: "registry.cn-hangzhou.aliyuncs.com/arcw/mongo:4.4.18"
