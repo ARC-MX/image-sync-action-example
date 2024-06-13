@@ -1,6 +1,6 @@
 docker.io:
         username: ${DOCKER_USERNAME}
         password: ${DOCKER_PASSWORD}
-egistry.cn-hangzhou.aliyuncs.com/arcw:
+registry.cn-hangzhou.aliyuncs.com:
         username: ${ALIYUN_USERNAME}
         password: ${DOCKER_PASSWORD}
