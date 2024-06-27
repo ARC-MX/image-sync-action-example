@@ -4,3 +4,6 @@ docker.io:
 registry.cn-hangzhou.aliyuncs.com:
         username: ${ALIYUN_USERNAME}
         password: ${DOCKER_PASSWORD}
+ghcr.io:
+        username: ${GHCR_USERNAME}
+        password: ${GHCR_PASSWORD}

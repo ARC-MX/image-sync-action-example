@@ -1,1 +1,6 @@
-arcw/mongo:4.4.18: "registry.cn-hangzhou.aliyuncs.com/arcw/mongo:4.4.18"
+ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.6.4: "registry.cn-hangzhou.aliyuncs.com/arcw/qemuarm-64-homeassistant:2024.6.4"
+ghcr.io/home-assistant/aarch64-hassio-supervisor:2024.06.2: "registry.cn-hangzhou.aliyuncs.com/arcw/aarch64-hassio-supervisor:2024.06.2"
+ghcr.io/home-assistant/aarch64-hassio-cli:2024.05.0: "registry.cn-hangzhou.aliyuncs.com/arcw/aarch64-hassio-cli:2024.05.0"
+ghcr.io/home-assistant/aarch64-hassio-dns:2024.04.0: "registry.cn-hangzhou.aliyuncs.com/arcw/aarch64-hassio-dns:2024.04.0"
+ghcr.io/home-assistant/aarch64-hassio-audio:2023.12.0: "registry.cn-hangzhou.aliyuncs.com/arcw/aarch64-hassio-audio:2023.12.0"
+ghcr.io/home-assistant/aarch64-hassio-multicast:2024.03.0: "registry.cn-hangzhou.aliyuncs.com/arcw/aarch64-hassio-multicast:2024.03.0"
