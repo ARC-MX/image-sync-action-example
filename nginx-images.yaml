@@ -1,2 +1,2 @@
 "cnstark/pytorch:2.0.1-py3.9.17-cuda11.8.0-ubuntu20.04": "registry.cn-hangzhou.aliyuncs.com/arcw/pytorch:2.0.1-py3.9.17-cuda11.8.0-ubuntu20.04"
-"ghcr.io/home-assistant/aarch64-hassio-cli:2024.09.0": "registry.cn-hangzhou.aliyuncs.com/arcw/aarch64-hassio-cli:2024.09.0"
+"ghcr.io/home-assistant": "registry.cn-hangzhou.aliyuncs.com/home-assistant"
