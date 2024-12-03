@@ -1,4 +1,4 @@
-"cnstark/pytorch:2.0.1-py3.9.17-cuda11.8.0-ubuntu20.04": "registry.cn-hangzhou.aliyuncs.com/arcw/pytorch:2.0.1-py3.9.17-cuda11.8.0-ubuntu20.04"
+"ghcr.io/home-assistant/aarch64-hassio-observer": "registry.cn-hangzhou.aliyuncs.com/arcw/aarch64-hassio-observer"
 "ghcr.io/home-assistant/aarch64-hassio-cli": "registry.cn-hangzhou.aliyuncs.com/arcw/aarch64-hassio-cli"
 "ghcr.io/home-assistant/aarch64-hassio-supervisor": "registry.cn-hangzhou.aliyuncs.com/arcw/aarch64-hassio-supervisor"
 "ghcr.io/home-assistant/aarch64-hassio-audio": "registry.cn-hangzhou.aliyuncs.com/arcw/aarch64-hassio-audio"
