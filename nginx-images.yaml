@@ -8,3 +8,5 @@
 #"ghcr.io/home-assistant/qemuarm-64-homeassistant:landingpage": "registry.cn-hangzhou.aliyuncs.com/home-assistant-arcw/qemuarm-64-homeassistant:landingpage"
 "ghcr.io/armbian/docker-armbian-build:armbian-ubuntu-jammy-latest": "registry.cn-hangzhou.aliyuncs.com/arcw/docker-armbian-build:armbian-ubuntu-jammy-latest"
 "ghcr.io/open-webui/open-webui:cuda": "registry.cn-hangzhou.aliyuncs.com/arcw/open-webui:cuda"
+"ghcr.io/immich-app/immich-server:release": "registry.cn-hangzhou.aliyuncs.com/arcw/immich-server:release"
+"ghcr.io/immich-app/immich-machine-learning:release": "registry.cn-hangzhou.aliyuncs.com/arcw/immich-machine-learning:release"
