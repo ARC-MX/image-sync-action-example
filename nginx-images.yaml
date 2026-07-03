@@ -8,3 +8,4 @@
 #"ghcr.io/home-assistant/qemuarm-64-homeassistant:landingpage": "registry.cn-hangzhou.aliyuncs.com/home-assistant-arcw/qemuarm-64-homeassistant:landingpage"
 "ghcr.io/immich-app/immich-server:release": "registry.cn-hangzhou.aliyuncs.com/arcw/immich-server:release"
 "ghcr.io/immich-app/immich-machine-learning:release": "registry.cn-hangzhou.aliyuncs.com/arcw/immich-machine-learning:release"
+"ailg/g-box:hostmode": "registry.cn-hangzhou.aliyuncs.com/arcw/g-box:hostmode"
